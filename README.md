@@ -2,4 +2,4 @@
 
 ## repo ini adalah bagian dari latihan belajar git dan github.
 
-ini adalah isi dari branch nomor 1
+ini adalah isi dari branch nomor 2
